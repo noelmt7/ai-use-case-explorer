@@ -1,0 +1,24 @@
+# Relevant Dataset Links
+
+- GitHub Repositories for '':
+- [Repo 1:  on GitHub](https://github.com/search?q=)
+- GitHub Repositories for '1. quality control:':
+- [Repo 1: 1. quality control: on GitHub](https://github.com/search?q=1.+quality+control:)
+- GitHub Repositories for '2. predictive maintenance: ai':
+- [Repo 1: 2. predictive maintenance: ai on GitHub](https://github.com/search?q=2.+predictive+maintenance:+ai)
+- GitHub Repositories for '3. supply chain optimization:':
+- [Repo 1: 3. supply chain optimization: on GitHub](https://github.com/search?q=3.+supply+chain+optimization:)
+- GitHub Repositories for '4. autonomous vehicles:':
+- [Repo 1: 4. autonomous vehicles: on GitHub](https://github.com/search?q=4.+autonomous+vehicles:)
+- GitHub Repositories for '5. design and innovation:':
+- [Repo 1: 5. design and innovation: on GitHub](https://github.com/search?q=5.+design+and+innovation:)
+- GitHub Repositories for '6. manufacturing efficiency:':
+- [Repo 1: 6. manufacturing efficiency: on GitHub](https://github.com/search?q=6.+manufacturing+efficiency:)
+- GitHub Repositories for '7. customer service:':
+- [Repo 1: 7. customer service: on GitHub](https://github.com/search?q=7.+customer+service:)
+- GitHub Repositories for '8. predictive analytics:':
+- [Repo 1: 8. predictive analytics: on GitHub](https://github.com/search?q=8.+predictive+analytics:)
+- GitHub Repositories for '9. smart traffic management:':
+- [Repo 1: 9. smart traffic management: on GitHub](https://github.com/search?q=9.+smart+traffic+management:)
+- GitHub Repositories for 'these use cases demonstrate':
+- [Repo 1: these use cases demonstrate on GitHub](https://github.com/search?q=these+use+cases+demonstrate)
