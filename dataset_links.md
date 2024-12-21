@@ -1,24 +1,59 @@
 # Relevant Dataset Links
 
-- GitHub Repositories for '':
-- [Repo 1:  on GitHub](https://github.com/search?q=)
-- GitHub Repositories for '1. quality control:':
-- [Repo 1: 1. quality control: on GitHub](https://github.com/search?q=1.+quality+control:)
-- GitHub Repositories for '2. predictive maintenance: ai':
-- [Repo 1: 2. predictive maintenance: ai on GitHub](https://github.com/search?q=2.+predictive+maintenance:+ai)
-- GitHub Repositories for '3. supply chain optimization:':
-- [Repo 1: 3. supply chain optimization: on GitHub](https://github.com/search?q=3.+supply+chain+optimization:)
-- GitHub Repositories for '4. autonomous vehicles:':
-- [Repo 1: 4. autonomous vehicles: on GitHub](https://github.com/search?q=4.+autonomous+vehicles:)
-- GitHub Repositories for '5. design and innovation:':
-- [Repo 1: 5. design and innovation: on GitHub](https://github.com/search?q=5.+design+and+innovation:)
-- GitHub Repositories for '6. manufacturing efficiency:':
-- [Repo 1: 6. manufacturing efficiency: on GitHub](https://github.com/search?q=6.+manufacturing+efficiency:)
-- GitHub Repositories for '7. customer service:':
-- [Repo 1: 7. customer service: on GitHub](https://github.com/search?q=7.+customer+service:)
-- GitHub Repositories for '8. predictive analytics:':
-- [Repo 1: 8. predictive analytics: on GitHub](https://github.com/search?q=8.+predictive+analytics:)
-- GitHub Repositories for '9. smart traffic management:':
-- [Repo 1: 9. smart traffic management: on GitHub](https://github.com/search?q=9.+smart+traffic+management:)
-- GitHub Repositories for 'these use cases demonstrate':
-- [Repo 1: these use cases demonstrate on GitHub](https://github.com/search?q=these+use+cases+demonstrate)
+- [Repo 1: 1. Quality Control and on GitHub](https://github.com/search?q=1.+Quality+Control+and)
+- [Model 1: 1. Quality Control and on HuggingFace](https://huggingface.co/models?search=1.+Quality+Control+and)
+- [Chest X-Ray Images (Pneumonia)](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia)
+- [Repo 1: * Use AI to on GitHub](https://github.com/search?q=*+Use+AI+to)
+- [Model 1: * Use AI to on HuggingFace](https://huggingface.co/models?search=*+Use+AI+to)
+- [College Student AI Use in School](https://www.kaggle.com/datasets/trippinglettuce/college-student-ai-use-in-school)
+- [Repo 1: * Implement AI-powered logistics on GitHub](https://github.com/search?q=*+Implement+AI-powered+logistics)
+- [Model 1: * Implement AI-powered logistics on HuggingFace](https://huggingface.co/models?search=*+Implement+AI-powered+logistics)
+- No dataset found.
+- [Repo 1: 3. Autonomous Vehicles: on GitHub](https://github.com/search?q=3.+Autonomous+Vehicles:)
+- [Model 1: 3. Autonomous Vehicles: on HuggingFace](https://huggingface.co/models?search=3.+Autonomous+Vehicles:)
+- [Electric Vehicle Data](https://www.kaggle.com/datasets/jainaru/electric-vehicle-population)
+- [Repo 1: * Develop AI-based systems on GitHub](https://github.com/search?q=*+Develop+AI-based+systems)
+- [Model 1: * Develop AI-based systems on HuggingFace](https://huggingface.co/models?search=*+Develop+AI-based+systems)
+- [Traffic Detection Project](https://www.kaggle.com/datasets/yusufberksardoan/traffic-detection-project)
+- [Repo 1: 4. Personalized Vehicle Experience: on GitHub](https://github.com/search?q=4.+Personalized+Vehicle+Experience:)
+- [Model 1: 4. Personalized Vehicle Experience: on HuggingFace](https://huggingface.co/models?search=4.+Personalized+Vehicle+Experience:)
+- [AI-homework 1](https://www.kaggle.com/datasets/duongqphuc/ai-homework-1)
+- [Repo 1: * Use AI to on GitHub](https://github.com/search?q=*+Use+AI+to)
+- [Model 1: * Use AI to on HuggingFace](https://huggingface.co/models?search=*+Use+AI+to)
+- [College Student AI Use in School](https://www.kaggle.com/datasets/trippinglettuce/college-student-ai-use-in-school)
+- [Repo 1: 5. Predictive Maintenance and on GitHub](https://github.com/search?q=5.+Predictive+Maintenance+and)
+- [Model 1: 5. Predictive Maintenance and on HuggingFace](https://huggingface.co/models?search=5.+Predictive+Maintenance+and)
+- [Machine Predictive Maintenance Classification](https://www.kaggle.com/datasets/shivamb/machine-predictive-maintenance-classification)
+- [Repo 1: * Utilize AI-powered predictive on GitHub](https://github.com/search?q=*+Utilize+AI-powered+predictive)
+- [Model 1: * Utilize AI-powered predictive on HuggingFace](https://huggingface.co/models?search=*+Utilize+AI-powered+predictive)
+- No dataset found.
+- [Repo 1: * Create a virtual on GitHub](https://github.com/search?q=*+Create+a+virtual)
+- [Model 1: * Create a virtual on HuggingFace](https://huggingface.co/models?search=*+Create+a+virtual)
+- [Virtual Reality Experiences](https://www.kaggle.com/datasets/aakashjoshi123/virtual-reality-experiences)
+- [Repo 1: * Implement AI-powered robotics on GitHub](https://github.com/search?q=*+Implement+AI-powered+robotics)
+- [Model 1: * Implement AI-powered robotics on HuggingFace](https://huggingface.co/models?search=*+Implement+AI-powered+robotics)
+- [AI-homework 1](https://www.kaggle.com/datasets/duongqphuc/ai-homework-1)
+- [Repo 1: 8. Vehicle Design and on GitHub](https://github.com/search?q=8.+Vehicle+Design+and)
+- [Model 1: 8. Vehicle Design and on HuggingFace](https://huggingface.co/models?search=8.+Vehicle+Design+and)
+- [ in-vehicle coupon recommendation](https://www.kaggle.com/datasets/mathurinache/invehicle-coupon-recommendation)
+- [Repo 1: * Use AI to on GitHub](https://github.com/search?q=*+Use+AI+to)
+- [Model 1: * Use AI to on HuggingFace](https://huggingface.co/models?search=*+Use+AI+to)
+- [College Student AI Use in School](https://www.kaggle.com/datasets/trippinglettuce/college-student-ai-use-in-school)
+- [Repo 1: * Implement AI-powered data on GitHub](https://github.com/search?q=*+Implement+AI-powered+data)
+- [Model 1: * Implement AI-powered data on HuggingFace](https://huggingface.co/models?search=*+Implement+AI-powered+data)
+- [💳 Financial Transactions Dataset: Analytics](https://www.kaggle.com/datasets/computingvictor/transactions-fraud-datasets)
+- [Repo 1: 10. Predictive Analytics for on GitHub](https://github.com/search?q=10.+Predictive+Analytics+for)
+- [Model 1: 10. Predictive Analytics for on HuggingFace](https://huggingface.co/models?search=10.+Predictive+Analytics+for)
+- [Supermarket sales](https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales)
+- [Repo 1: * Use AI-powered predictive on GitHub](https://github.com/search?q=*+Use+AI-powered+predictive)
+- [Model 1: * Use AI-powered predictive on HuggingFace](https://huggingface.co/models?search=*+Use+AI-powered+predictive)
+- [Predictive Maintenance: Train Bogie Vibrations](https://www.kaggle.com/datasets/tamaryovell/predictive-maintanace-train-bogie-vibrations)
+- [Repo 1: * Implement AI-powered chatbots on GitHub](https://github.com/search?q=*+Implement+AI-powered+chatbots)
+- [Model 1: * Implement AI-powered chatbots on HuggingFace](https://huggingface.co/models?search=*+Implement+AI-powered+chatbots)
+- [Mental Health Dataset](https://www.kaggle.com/datasets/jiscecseaiml/mental-health-dataset)
+- [Repo 1: * Use AI to on GitHub](https://github.com/search?q=*+Use+AI+to)
+- [Model 1: * Use AI to on HuggingFace](https://huggingface.co/models?search=*+Use+AI+to)
+- [College Student AI Use in School](https://www.kaggle.com/datasets/trippinglettuce/college-student-ai-use-in-school)
+- [Repo 1: These use cases demonstrate on GitHub](https://github.com/search?q=These+use+cases+demonstrate)
+- [Model 1: These use cases demonstrate on HuggingFace](https://huggingface.co/models?search=These+use+cases+demonstrate)
+- [Food Nutrition Dataset](https://www.kaggle.com/datasets/utsavdey1410/food-nutrition-dataset)
